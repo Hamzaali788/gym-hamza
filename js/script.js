@@ -112,3 +112,10 @@ function day5(){
     t9.style.display = ('none');
     t10.style.display = ('none');  
 }
+
+
+var k = document.getElementById('preloder');
+
+function pre(){
+    k.style.display = 'none';
+}
